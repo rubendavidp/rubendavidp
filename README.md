@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rubendavidp
-- 👀 I’m interested in Python, CryptoWorld and Data Science.
-- 🌱 I’m currently learning International Business, Python and Data Science.
+- 👀 I’m interested in Python, Business and Data Analysis.
+- 🌱 I’m currently learning BI, Python and Data Analysis.
 - 💞️ I’m looking to collaborate on Data analysis Projects, Financial models projects.
 - 📫 How to reach me: twitter.com/rubendavidp
 
